@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Tomas Kimmel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+🚀 Journeying Through: Just starting my professional path, eager to learn and grow in dynamic environments.🤝 Team Ups: Ready to bring energy and commitment to collaborative work. Team? Count me in!💻 Current Quest: Learning HTML, CSS, and JavaScript while exploring the world of programming.⚡ My Specialty: Adapting quickly, bringing fresh ideas, and keeping a positive attitude when facing challenges.🌟 Did You Know?: Even though I’m seeking my first work experience, I already handle tools like Office, social media, and photo & video editing.
 
 
 
