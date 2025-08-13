@@ -10,8 +10,8 @@
 
 # 🌐 Social Media:
 <a href="https://www.instagram.com/tomiikimmel/">
-  <img src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="www.linkedin.com/in/tomas-kimmel-330008296">
-  <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
